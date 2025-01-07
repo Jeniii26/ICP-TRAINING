@@ -1,0 +1,40 @@
+/* Classic Yellow Taxi Layout Style Sheet */
+
+/*Body*/
+body{ background-color: white;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;}
+
+
+/* font: italic normal 1.2em Arial, Helvetica, sans-serif; */
+
+
+/* Headings */
+h1 {background-color: orange;
+    color: black;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    letter-spacing: .2em; /*Kerning*/
+    word-spacing: .5em;
+    text-align: center;}
+
+h2 {background-color: chocolate;
+    color: white;}
+
+
+/* Paragraph */
+p {color: saddlebrown;
+    text-indent: 3em;
+    line-height: 2em;}
+
+
+/* Links */
+a {color: orange;
+    font-size: 1.5em;
+    text-decoration: none}
+
+
+/* Footer */
+footer {color: saddlebrown;
+    background-color: palegoldenrod;
+    font-size: .7em;
+    text-align: center;}
